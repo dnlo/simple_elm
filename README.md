@@ -1,2 +1,2 @@
 # simple_elm
-single page sites building with elm
+single page site with elm
